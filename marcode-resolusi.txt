@@ -4,3 +4,4 @@ resolusi saya :
 saya akan membuat web e-commerce menggunakan html css dan javascript
 tapi saya belum negrti javascript wkwk
 cita-cita saya ingin jadi front end developer
+sekian
